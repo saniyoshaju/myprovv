@@ -3,7 +3,7 @@
     padding-top: 50px;
 }
 #home-section{
-    height: 100vh;
+    min-height: 100vh;
 }
 body{
     overflow-x: hidden;
